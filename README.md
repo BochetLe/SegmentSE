@@ -1,5 +1,3 @@
-# SegmentSE
-Segment SE Test Page
 <html>
 
 <head>
