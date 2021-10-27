@@ -45,10 +45,13 @@
     <div class="text-4xl">NotNike Home Page</div>
     <ul>
       <li class="mt-2">
-        <button class="bg-blue-500 rounded-full font-bold text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-blue-600 mr-6" onclick="send('page')">Page</button>
+        <button class="bg-blue-500 rounded-full font-bold text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-blue-600 mr-6" onclick="send('page')">Home Page</button>
       </li>
       <li class="mt-2">
-        <button class="bg-blue-500 rounded-full font-bold text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-blue-600 mr-6" onclick="send('track')">Track</button>
+        <button class="bg-blue-500 rounded-full font-bold text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-blue-600 mr-6" onclick="send('track')">Adult Shoes</button>
+      </li>
+      <li class="mt-2">
+        <button class="bg-blue-500 rounded-full font-bold text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-blue-600 mr-6" onclick="send('track')">Kids Shoes</button>
       </li>
       <li class="mt-2">
         <button class="bg-blue-500 rounded-full font-bold text-white px-4 py-2 transition duration-300 ease-in-out hover:bg-blue-600 mr-6" onclick="send('identify')">Identify</button>
